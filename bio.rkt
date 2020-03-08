@@ -1,0 +1,6 @@
+#lang mc-coach/bio
+
+(bio
+ #:first-name "Emily"
+ #:profile-pic (square 40 'solid 'red)
+ #:coach-story "My personal coding journey began a few years ago, after I realized that I was using technology in various forms every single day, throughout the day, while not having a clue about how that technology was created or what to do if it stopped working. The fact that I was so reliant on something I did not understand was unsettling to me, so I set out to change that. As I learn how to code, my education in French (fifteen years) has become a reference of sorts, specifically for how I learn languages, and for how I can push through the inevitable frustration that comes with learning how to communicate in a completely different way. For me, all languages, whether spoken or programming, have a few things in common: they build on themselves, they are learned over years of hard work and dedication, and they exist so that we can bring our thoughts and ideas to as much of the world as possible. Technology is an integral part of our lives today, and the further along in my coding journey I get, the more passionate I am about demystifying it because anybody can learn to code and everybody should.")
